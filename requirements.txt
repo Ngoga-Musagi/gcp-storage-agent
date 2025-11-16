@@ -1,0 +1,8 @@
+google-adk
+python-dotenv
+litellm
+pydantic
+google-cloud-storage
+google-cloud-monitoring
+google-cloud-bigquery
+google-auth
